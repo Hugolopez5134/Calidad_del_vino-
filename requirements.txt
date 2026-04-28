@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
+=======
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+>>>>>>> 5b56e49 (Proyecto IA: clasificación de vinos modularizado)
 joblib
